@@ -1,0 +1,19 @@
+{
+  "name": "bff-cotacoes",
+  "version": "1.0.0",
+  "description": "BFF para cotações de hortaliças da CONAB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "express": "^4.22.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
